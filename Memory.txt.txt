@@ -1,26 +1,26 @@
-# ±î¸ÔÁö ¸»¾Æ¾ß ÇÒ °Í
-# ±î¸ÔÁö ¸»¾Æ¾ß ÇÒ °Í
-1.Ä«Ä«¿ÀÅå
-2. ÆÌÇÃ·¹ÀÌ¾î
+# ê¹Œë¨¹ì§€ ë§ì•„ì•¼ í•  ê²ƒ
+# Github
+1.ì¹´ì¹´ì˜¤í†¡
+2. íŒŸí”Œë ˆì´ì–´
 3. sublimetext
 4. python 
-5. Å©·Ò
-6. Æ÷Åä¼¥
+5. í¬ë¡¬
+6. í¬í† ìƒµ
 7.deluge
-8. ÇÑ±Û , ¿ÀÇÇ½º => À©µµ¿ì ¿ÜÀåÇÏµå¿¡ ±ò±â
-9. °øÀÎÀÎÁõ¼­ => À©µµ¿ì ¿ÜÀåÇÏµå¿¡ ±ò±â
+8. í•œê¸€ , ì˜¤í”¼ìŠ¤ => ìœˆë„ìš° ì™¸ì¥í•˜ë“œì— ê¹”ê¸°
+9. ê³µì¸ì¸ì¦ì„œ => ìœˆë„ìš° ì™¸ì¥í•˜ë“œì— ê¹”ê¸°
 10. xcode
-11. ¹İµğÁı
+11. ë°˜ë””ì§‘
 12. icloud
-13.À¥ »çÀÌÆ®
-	=> Å¬¸®¾Ó, °æ´Ü±â, À¯Æ©ºê, ÀÌ·ç¸®, ¹Ú¹®°¢, »êÅ¸ÅäÀÍ, »ıÈ°ÄÚµù, ÄÚµåÄ«µ¥¹Ì, ¶óÀÌÇÁÇÙ, ÄÚ¾î¼Ò¸®¿µ¾î,
-	     http://wallpaperswide.com , http://rimejelly.tistory.com/m/4 (Æ÷Åä¼¥ ´Ù¿î) 
-http://nyears.tistory.com/48 (Æ÷Åä¼¥ ÇØ»óµµ) ,  https://www.slideshare.net/H4C/ss-59722847  (ÇØÅ·°øºÎ¹æ¹ı)
-http://www.pythonchallenge.com/ (ÆÄÀÌ½ã ¹®Á¦Ç®ÀÌ) , http://webhacking.kr/ (À¥ÇØÅ· ¹®Á¦Ç®ÀÌ)
-https://www.corelan.be/index.php/articles/ (¸®¹ö½Ì±â»ç) ,  http://forensic-proof.com/ (Æ÷·»½Ä ºí·Î±×)
-https://blog.naver.com/93immm/220151646795 (ÇØÅ·ÀÔ¹®¼­)  ,
-https://beomi.github.io/2017/07/07/Beautify-ZSH/ (¸Æ ÅÍ¹Ì³Î ²Ù¹Ì±â) ,https://www.acmicpc.net/ (¹®Á¦Ç®ÀÌ)
+13.ì›¹ ì‚¬ì´íŠ¸
+	=> í´ë¦¬ì•™, ê²½ë‹¨ê¸°, ìœ íŠœë¸Œ, ì´ë£¨ë¦¬, ë°•ë¬¸ê°, ì‚°íƒ€í† ìµ, ìƒí™œì½”ë”©, ì½”ë“œì¹´ë°ë¯¸, ë¼ì´í”„í•µ, ì½”ì–´ì†Œë¦¬ì˜ì–´,
+	     http://wallpaperswide.com , http://rimejelly.tistory.com/m/4 (í¬í† ìƒµ ë‹¤ìš´) 
+http://nyears.tistory.com/48 (í¬í† ìƒµ í•´ìƒë„) ,  https://www.slideshare.net/H4C/ss-59722847  (í•´í‚¹ê³µë¶€ë°©ë²•)
+http://www.pythonchallenge.com/ (íŒŒì´ì¬ ë¬¸ì œí’€ì´) , http://webhacking.kr/ (ì›¹í•´í‚¹ ë¬¸ì œí’€ì´)
+https://www.corelan.be/index.php/articles/ (ë¦¬ë²„ì‹±ê¸°ì‚¬) ,  http://forensic-proof.com/ (í¬ë Œì‹ ë¸”ë¡œê·¸)
+https://blog.naver.com/93immm/220151646795 (í•´í‚¹ì…ë¬¸ì„œ)  ,
+https://beomi.github.io/2017/07/07/Beautify-ZSH/ (ë§¥ í„°ë¯¸ë„ ê¾¸ë¯¸ê¸°) ,https://www.acmicpc.net/ (ë¬¸ì œí’€ì´)
 http://shopping.interpark.com/product/productInfo.do?prdNo=5892250189&utm_source=google&utm_medium=remarketing&utm_campaign=incorp_DAP_20180131&gclid=Cj0KCQiA3IPgBRCAARIsABb-iGJgl_jur_XmLBP9FQOzQj7LIvEEHQ-1_FPd047LLBWKk25gyQ_lTLcaAsvWEALw_wcB
-( Á¾ÀÌÁú°¨) , http://www.missed-call.com/ ( ½ºÆÔ ÀüÈ­¹øÈ£ DB) , http://blog.work6.kr/category/LAB (IT ºí·Î±×)
-https://blog.psangwoo.com/coding/2016/12/08/python-telegram-bot-1.html (IT ºí·Î±×)
-http://jeongchul.tistory.com/423 (½º¸¶Æ®¹Ì·¯) , Å·ÄáÆÑÅä¸®
+( ì¢…ì´ì§ˆê°) , http://www.missed-call.com/ ( ìŠ¤íŒ¸ ì „í™”ë²ˆí˜¸ DB) , http://blog.work6.kr/category/LAB (IT ë¸”ë¡œê·¸)
+https://blog.psangwoo.com/coding/2016/12/08/python-telegram-bot-1.html (IT ë¸”ë¡œê·¸)
+http://jeongchul.tistory.com/423 (ìŠ¤ë§ˆíŠ¸ë¯¸ëŸ¬) , í‚¹ì½©íŒ©í† ë¦¬
