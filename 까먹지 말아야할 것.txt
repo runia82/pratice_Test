@@ -1,0 +1,26 @@
+# 까먹지 말아야 할 것
+
+1.카카오톡
+2. 팟플레이어
+3. sublimetext
+4. python 
+5. 크롬
+6. 포토샵
+7.deluge
+8. 한글 , 오피스 => 윈도우 외장하드에 깔기
+9. 공인인증서 => 윈도우 외장하드에 깔기
+10. xcode
+11. 반디집
+12. icloud
+13.웹 사이트
+	=> 클리앙, 경단기, 유튜브, 이루리, 박문각, 산타토익, 생활코딩, 코드카데미, 라이프핵, 코어소리영어,
+	     http://wallpaperswide.com , http://rimejelly.tistory.com/m/4 (포토샵 다운) 
+http://nyears.tistory.com/48 (포토샵 해상도) ,  https://www.slideshare.net/H4C/ss-59722847  (해킹공부방법)
+http://www.pythonchallenge.com/ (파이썬 문제풀이) , http://webhacking.kr/ (웹해킹 문제풀이)
+https://www.corelan.be/index.php/articles/ (리버싱기사) ,  http://forensic-proof.com/ (포렌식 블로그)
+https://blog.naver.com/93immm/220151646795 (해킹입문서)  ,
+https://beomi.github.io/2017/07/07/Beautify-ZSH/ (맥 터미널 꾸미기) ,https://www.acmicpc.net/ (문제풀이)
+http://shopping.interpark.com/product/productInfo.do?prdNo=5892250189&utm_source=google&utm_medium=remarketing&utm_campaign=incorp_DAP_20180131&gclid=Cj0KCQiA3IPgBRCAARIsABb-iGJgl_jur_XmLBP9FQOzQj7LIvEEHQ-1_FPd047LLBWKk25gyQ_lTLcaAsvWEALw_wcB
+( 종이질감) , http://www.missed-call.com/ ( 스팸 전화번호 DB) , http://blog.work6.kr/category/LAB (IT 블로그)
+https://blog.psangwoo.com/coding/2016/12/08/python-telegram-bot-1.html (IT 블로그)
+http://jeongchul.tistory.com/423 (스마트미러) , 킹콩팩토리
