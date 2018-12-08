@@ -1,4 +1,6 @@
-﻿import zipfile # 압축파일을 다루게 해주는 모듈
+#Github에 올렸습니다.
+
+import zipfile # 압축파일을 다루게 해주는 모듈
 import threading # 병렬프로그래밍을 가능하게 해줌
 
 fin = True # boolean 값  ,, 전역변수
