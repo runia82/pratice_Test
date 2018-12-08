@@ -1,0 +1,49 @@
+﻿import zipfile # 압축파일을 다루게 해주는 모듈
+import threading # 병렬프로그래밍을 가능하게 해줌
+
+fin = True # boolean 값  ,, 전역변수
+
+# fin값이 비번을 찾았을 때 False로 해줌으로써 무한루프를 막아줍시다.
+
+char = []  # 리스트를 생성한다
+
+name = raw_input('file:')  # 사용자로부터 string 타입의 입력을 받는다.
+
+for x in range(0,100000):
+    char.append(str(x))  # append 함수 -> 리스트의 함수를 이용하면 맨 뒤에 보관
+
+it = iter(char)
+
+#iter 내장함수는 반복 가능한 객체에서 호출하고
+#next 내장함수는 이터레이터에서 값을 차례로 끄냅니다.
+
+# 압축 푸는 기능을 해줄 extract이라는 함수를 만들어 줍시다.
+
+def extract(File,password):
+    try:
+        global fin
+# 함수 안에서 전역변수를 변경할 수 없지만
+#global이란 함수로 전역 변수를 수정하는 것이 가능하다.
+        zFile = zipfile.ZipFile(File) # zFile 이라는 압축파일 객체를 생성합니다.
+        zFile.extractall(pwd = password)
+        # Object.extractall(비번) Object를 비밀번호를 사용하여 압축해제합니다.
+        fin = False
+        print (password)
+        #print로 비밀번호를 찾을시 콘솔에 비밀번호를 출력하게 합니다.
+        raw_input()
+    except:
+        pass
+
+while fin:
+    try: #쓰레드 객체를 생성해줍시다. threading.Thread(target = 타겟, args = Tuple) 
+        t = threading.Thread(target=extract,args = (name.next(it)))
+        # 타겟 함수를 Tuple인자값으로 실행한다.
+        t.start()
+    except:
+        pass
+    
+# while 값이 True일때 루프하게 됩니다.
+
+        
+
+        
