@@ -1,4 +1,4 @@
-
+﻿
 
 
 		# Github를 사용하기 위한 Gitbash- 명령어
@@ -11,16 +11,14 @@
 	
 	4. 그 다음 연결 시켜준다. =>  git remote add origin repository address(주소 붙여넣기)
 	
-	5. git pull origin master : 지정 해 놓은 Repository에서 자료를 로컬로 가져옴.
+	5. git status : 현재 Git 과의 상태를 Check
 
-	6. git status : 현재 Git 과의 상태를 Check
+	6. git add . : 변경된 파일들을 모두 Tracking !
 
-	7. git add . : 변경된 파일들을 모두 Tracking !
+	7. git commit -m "message" :  인식할 수 있는 commit을 달아준다. (git add . 다음 동작)
 
-	8. git commit -m "message" :  인식할 수 있는 commit을 달아준다. (git add . 다음 동작)
-
-	9. git push origin master : 실제로 Git에 PUSH! 
+	8. git push origin master : 실제로 Git에 PUSH! 
 	
-	10. 다른 사람 Git 가져오기
+	9. 다른 사람 Git 가져오기
 		->  폴더 생성 후 거기다가 다른 사람의 Github 주소 remote 시켜주기
 		->  git pull origin master 입력하기
