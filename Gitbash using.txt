@@ -1,22 +1,26 @@
 
 
 
-		# Github¸¦ »ç¿ëÇÏ±â À§ÇÑ Gitbash- ¸í·É¾î
+		# Githubë¥¼ ì‚¬ìš©í•˜ê¸° ìœ„í•œ Gitbash- ëª…ë ¹ì–´
 
-	1. Æú´õ¸¦ ¸¸µç´Ù.
+	1. í´ë”ë¥¼ ë§Œë“ ë‹¤.
 	
-	2. ±× Æú´õ¶û ÀÚ½ÅÀÇ Repositories¶û ¿¬°á½ÃÄÑÁØ´Ù.
+	2. ê·¸ í´ë”ëž‘ ìžì‹ ì˜ Repositoriesëž‘ ì—°ê²°ì‹œì¼œì¤€ë‹¤.
 	
-	3. »õ·Î¸¸µç Æú´õ¿¡ .gitÀ» ¸¸µé¾î ÁØ´Ù. => git init
+	3. ìƒˆë¡œë§Œë“  í´ë”ì— .gitì„ ë§Œë“¤ì–´ ì¤€ë‹¤. => git init
 	
-	4. ±× ´ÙÀ½ ¿¬°á ½ÃÄÑÁØ´Ù. =>  git remote add origin repository address(ÁÖ¼Ò ºÙ¿©³Ö±â)
+	4. ê·¸ ë‹¤ìŒ ì—°ê²° ì‹œì¼œì¤€ë‹¤. =>  git remote add origin repository address(ì£¼ì†Œ ë¶™ì—¬ë„£ê¸°)
 	
-	5. git pull origin master : ÁöÁ¤ ÇØ ³õÀº Repository¿¡¼­ ÀÚ·á¸¦ ·ÎÄÃ·Î °¡Á®¿È.
+	5. git pull origin master : ì§€ì • í•´ ë†“ì€ Repositoryì—ì„œ ìžë£Œë¥¼ ë¡œì»¬ë¡œ ê°€ì ¸ì˜´.
 
-	6. git status : ÇöÀç Git °úÀÇ »óÅÂ¸¦ Check
+	6. git status : í˜„ìž¬ Git ê³¼ì˜ ìƒíƒœë¥¼ Check
 
-	7. git add . : º¯°æµÈ ÆÄÀÏµéÀ» ¸ðµÎ Tracking !
+	7. git add . : ë³€ê²½ëœ íŒŒì¼ë“¤ì„ ëª¨ë‘ Tracking !
 
-	8. git commit -m "message" :  ÀÎ½ÄÇÒ ¼ö ÀÖ´Â commitÀ» ´Þ¾ÆÁØ´Ù. (git add . ´ÙÀ½ µ¿ÀÛ)
+	8. git commit -m "message" :  ì¸ì‹í•  ìˆ˜ ìžˆëŠ” commitì„ ë‹¬ì•„ì¤€ë‹¤. (git add . ë‹¤ìŒ ë™ìž‘)
 
-	9. git push origin master : ½ÇÁ¦·Î Git¿¡ PUSH! 
+	9. git push origin master : ì‹¤ì œë¡œ Gitì— PUSH! 
+	
+	10. ë‹¤ë¥¸ ì‚¬ëžŒ Git ê°€ì ¸ì˜¤ê¸°
+		->  í´ë” ìƒì„± í›„ ê±°ê¸°ë‹¤ê°€ ë‹¤ë¥¸ ì‚¬ëžŒì˜ Github ì£¼ì†Œ remote ì‹œì¼œì£¼ê¸°
+		->  git pull origin master ìž…ë ¥í•˜ê¸°
