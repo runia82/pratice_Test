@@ -1,4 +1,4 @@
-# 까먹지 말아야 할 것
+﻿# 까먹지 말아야 할 것
 # Github
 1.카카오톡
 2. 팟플레이어
@@ -24,3 +24,5 @@ http://shopping.interpark.com/product/productInfo.do?prdNo=5892250189&utm_source
 ( 종이질감) , http://www.missed-call.com/ ( 스팸 전화번호 DB) , http://blog.work6.kr/category/LAB (IT 블로그)
 https://blog.psangwoo.com/coding/2016/12/08/python-telegram-bot-1.html (IT 블로그)
 http://jeongchul.tistory.com/423 (스마트미러) , 킹콩팩토리
+
+14. 칼리 리눅스
